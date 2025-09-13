@@ -1,8 +1,18 @@
+import { Header } from '../../../components'
 
-const dashboard = () => {
+const Dashboard = () => {
+
+  const user = { name: 'Admin' } // Replace with actual user fetching logic
+
   return (
-    <div>Dashboard Page</div>
+    <main className="dashboard wrapper">
+      <Header
+        title={`Welcome ${user?.name ?? 'Guest'} 👋`}
+        description="Manage all of your travel agency's bookings and customers"
+      />
+      Dashboard page contents
+    </main>
   )
 }
 
-export default dashboard
+export default Dashboard

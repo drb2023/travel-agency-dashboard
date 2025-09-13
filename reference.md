@@ -1,3 +1,7 @@
+9/12 - Stopped @ 56:18. Git pushed, ready to continue.
+
+
+
 Instructed by JS Mastery
 https://www.youtube.com/watch?v=xZ1ba-RLrjo
 
