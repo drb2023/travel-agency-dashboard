@@ -1,4 +1,5 @@
 9/12 - Stopped @ 56:18. Git pushed, ready to continue.
+9/13 - Stopped @ 1:35:40. Git pushed, ready to continue.
 
 
 
